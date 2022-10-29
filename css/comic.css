@@ -5,10 +5,10 @@
 body {
   font-family: 'Droid Sans', sans-serif;
   font-size: 15px;
-  color: #20231E;
+  color: #FF1912;
   padding-top: 20px;
   background-image: url({{ site.url }}/images/grid.png);
-  background-color: #31352E;
+  background-color: #171916;
 }
 
 .panel {
