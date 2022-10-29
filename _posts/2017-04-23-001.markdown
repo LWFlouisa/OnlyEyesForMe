@@ -1,0 +1,8 @@
+---
+layout: comic
+date:   "Sat Oct 29 02:05:51 PM CDT 2022""
+title: "PAGE ONE"
+categories: page
+permalink: /001
+---
+![PAGE ONE]({{ site.url }}/pages/001.png)
